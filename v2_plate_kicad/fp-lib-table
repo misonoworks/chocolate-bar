@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name platebacking)(type KiCad)(uri ${KIPRJMOD}/platebacking.pretty)(options "")(descr ""))
+)
